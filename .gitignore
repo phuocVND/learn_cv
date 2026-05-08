@@ -1,0 +1,33 @@
+# Ignore build directories
+/build/
+/**/build/
+
+# CMake and build system files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile.cmake
+compile_commands.json
+
+# Compiled objects and binaries
+*.o
+*.obj
+*.so
+*.a
+*.dll
+*.exe
+pipeline
+
+# IDE/editor folders
+.vscode/
+.idea/
+
+# macOS
+.DS_Store
+
+# Logs and temporary files
+*.log
+*.tmp
+*~
+
+# Keep source and configuration files tracked (no blanket allow/deny rules)

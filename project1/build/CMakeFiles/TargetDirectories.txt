@@ -1,0 +1,3 @@
+/Users/phuocvnd/Desktop/learn_cv/project1/build/CMakeFiles/pipeline.dir
+/Users/phuocvnd/Desktop/learn_cv/project1/build/CMakeFiles/edit_cache.dir
+/Users/phuocvnd/Desktop/learn_cv/project1/build/CMakeFiles/rebuild_cache.dir
